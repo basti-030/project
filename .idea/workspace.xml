@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccd7a77e-7688-4bb6-a216-070124fd825b" name="Default Changelist" comment="" />
+    <list default="true" id="ccd7a77e-7688-4bb6-a216-070124fd825b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
     <include_path>
@@ -124,6 +131,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ftx6WQBCWbioYowQt926I4cCeH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -139,7 +147,7 @@
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner scope="XML" />
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" scope="XML" />
       <method v="2" />
     </configuration>
   </component>
@@ -152,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597051014416</updated>
       <workItem from="1597051015482" duration="2844000" />
-      <workItem from="1597127248625" duration="157000" />
+      <workItem from="1597127248625" duration="7218000" />
     </task>
     <servers />
   </component>
@@ -164,6 +172,14 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="388" y="110" key="#PHP/0.23.1440.877@0.23.1440.877" timestamp="1597074866283" />
+    <state x="593" y="365" key="Github.ShareDialog" timestamp="1597128790979">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="593" y="365" key="Github.ShareDialog/0.23.1440.877@0.23.1440.877" timestamp="1597128790979" />
+    <state x="511" y="166" key="Github.UntrackedFilesDialog" timestamp="1597128869743">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="511" y="166" key="Github.UntrackedFilesDialog/0.23.1440.877@0.23.1440.877" timestamp="1597128869743" />
     <state x="657" y="387" key="NewPhpFileDialog" timestamp="1597051555936">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
